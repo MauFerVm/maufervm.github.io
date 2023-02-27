@@ -1,0 +1,27 @@
+[
+    {
+    "fechaDesde": "09/2011",
+    "fechaHasta": "10/2014",
+    "empresa": "Pixelworks Inc.",
+    "direccion": "853 Victoria Street",
+    "rubro": "Computers",
+    "descripcion": "Atencion telefonica y al publico, manejo de redes sociales y correo electronico empresarial. Organizacion de reuniones virtuales y presenciales."
+},
+{
+    "fechaDesde": "05/2015",
+    "fechaHasta": "03/2017",
+    "empresa": "United States Cellular Corporation",
+    "direccion":"9 Meadow Ridge Alley",
+    "rubro": "Tools",
+    "descripcion": "Creacion presupuestos para clientes y gestion de compra a proveedores, control de los gastos del departamento, generar informes mensuales y anuales para los directivos."
+},
+
+{
+    "fechaDesde": "09/2017",
+    "fechaHasta": "04/2022",
+    "empresa": "Shinhan Electronic Group Co Ltd",
+    "direccion": "72 Independence Hill",
+    "rubro": "Electronics",
+    "descripcion": "Reclutamiento y selección de personal, medición el desempeño laboral de los empleados, planes de compensaciones e incentivos para el personal, organizacion de el horario de trabajo de los empleados."
+}
+]

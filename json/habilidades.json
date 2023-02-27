@@ -1,0 +1,19 @@
+[
+    {
+    "fecha": "2010 - 2016",
+    "duracion": "6 años",
+    "instituto": "Colegio Cientifico Nacional",
+    "direccion": "Doctor Luis Novillo Martínez 1168, Cordoba",
+    "titulo":"Bachiller en Economia y Administración de las Organizaciones",
+    "descripcion": "conocimientos basicos y herramientas administrativas, económicas, contables y organizacionales. Se propone desde la Escuela hacer una extensión que acerque a la realidad económica general y administrativa-organizacional en lo particular."
+},
+
+{
+    "fecha": "2017 - 2021",
+    "duracion": "3 años",
+    "instituto": "Instituto Técnico Superior del Norte",
+    "direccion": "Av Guillermo Rawson Norte 464, Cordoba",
+    "titulo": "Tecnicatura Superior en Administración",
+    "descripcion": "Asesorar y brindar asistencia técnica a las funciones directivas en organizaciones de cualquier finalidad, diseñar e implementar estructuras de organización y sus sistemas de información, operar y supervisar sistemas contables de crédito, de stocks y sistemas informáticos de uso habitual en la administración organizacional pública o privada."
+}
+]
